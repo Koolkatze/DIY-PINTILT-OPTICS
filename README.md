@@ -6,3 +6,5 @@ The light path follows to the eye and it looks like this:
 <img width="1282" height="721" alt="LIGHTPATH FOTO" src="https://github.com/user-attachments/assets/aeeb716c-f794-44b1-985f-7a8e2d17fff0" />
 I will use this company to manufacture the metal piece:
 https://www.naitetech.com/es/cnc-machining.html
+
+and for the glass cutting: https://www.plakglass.es/cristales-templado-extraclaro.php
