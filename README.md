@@ -17,7 +17,7 @@ https://www.naitetech.com/es/cnc-machining.html
 and for the glass buying: 
 https://a.aliexpress.com/_EwWfiF8
 
-We will need to apply a Silver Nitrate to make the glas a bidirectional mirror.
+We will need to apply a Silver Nitrate to make the glass a bidirectional mirror.
 
 We will need to first cut the glass to it's ecact scale.
 
