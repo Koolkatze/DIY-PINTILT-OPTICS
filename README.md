@@ -14,3 +14,14 @@ https://www.naitetech.com/es/cnc-machining.html
 
 and for the glass buying: 
 https://a.aliexpress.com/_EwWfiF8
+
+We will need to apply a Silver Nitrate to make the glas a bidirectional mirror.
+
+We will need to first cut the glass to it's ecact scale.
+
+Afterwards apply a Tape at one side of the glass to prevent silver from depositing in both sides.
+
+Then do all the silver reaction and try to cut the normal time to do a mirror in half or so to amke the mirror translucent.
+
+see this video on how to apply silver coating:
+https://youtu.be/hUX_cpFWNso?is=PVQzy98QUPuW01zT
