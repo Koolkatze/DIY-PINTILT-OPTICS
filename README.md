@@ -3,12 +3,13 @@ I have seen this PinTilt optics and decided to do my own version of them to see 
 
 Disclaimer: keep in mind that the scale of fhe 3D model is modifiable if the aspect ratio of the microdisplay is the same. Just scale it to your displays scale and keep in mind this is a W.I.P.
 
-<img width="1282" height="721" alt="pintilt 4 0 write" src="https://github.com/user-attachments/assets/fef4d129-9505-4b1a-a1e8-e3126ceb86b3" />
+<img width="1282" height="721" alt="A" src="https://github.com/user-attachments/assets/3ca2b80e-f3e4-4287-af11-a36d5e916e81" />
 
 
 I thought it could be ideal to use the finest and most flexible glass and found "Ultra-thin 0.1/0.2mm JGS1 quartz glass sheet, UV-grade fused silica optical glass window lens, high temperature resistant"
 
-<img width="1282" height="721" alt="4 0 pin tilt" src="https://github.com/user-attachments/assets/5eccc299-4a7f-4588-af3e-398a78e1419f" />
+<img width="1282" height="721" alt="B" src="https://github.com/user-attachments/assets/c52de091-29ca-4ccb-883a-70d5e1332af6" />
+
 
 I will use this company to manufacture the metal piece:
 https://www.naitetech.com/es/cnc-machining.html
