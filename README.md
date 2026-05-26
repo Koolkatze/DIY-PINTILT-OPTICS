@@ -3,6 +3,8 @@ I have seen this PinTilt optics and decided to do my own version of them to see 
 
 Disclaimer: keep in mind that the scale of fhe 3D model is modifiable if the aspect ratio of the microdisplay is the same. Just scale it to your displays scale and keep in mind this is a W.I.P.
 
+<img width="1282" height="721" alt="pintilt 4 0 write" src="https://github.com/user-attachments/assets/fef4d129-9505-4b1a-a1e8-e3126ceb86b3" />
+
 
 I thought it could be ideal to use the finest and most flexible glass and found "Ultra-thin 0.1/0.2mm JGS1 quartz glass sheet, UV-grade fused silica optical glass window lens, high temperature resistant"
 
