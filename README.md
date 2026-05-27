@@ -1,8 +1,9 @@
 # DIY-PINTILT-OPTICS
 I have seen this PinTilt optics and decided to do my own version of them to see if the final image and FOV is as good as possible.
 
-Disclaimer: keep in mind that the scale of fhe 3D model is modifiable if the aspect ratio of the microdisplay is the same. Just scale it to your displays scale and keep in mind this is a W.I.P.
+Disclaimer: keep in mind that the scale of fhe 3D model is modifiable if the aspect ratio of the microdisplay is the same. Just scale it to your displays scale and keep in mind this is a W.I.P. 
 
+The following images are from a previous and bad version, now I have raytraced everithing correctly so I only need a few more steps to go.
 <img width="1282" height="721" alt="A" src="https://github.com/user-attachments/assets/3ca2b80e-f3e4-4287-af11-a36d5e916e81" />
 
 
