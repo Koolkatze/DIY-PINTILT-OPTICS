@@ -3,13 +3,14 @@ I have seen this PinTilt optics and decided to do my own version of them to see 
 
 Disclaimer: keep in mind that the scale of fhe 3D model is modifiable if the aspect ratio of the microdisplay is the same. Just scale it to your displays scale and keep in mind this is a W.I.P. 
 
-The following images are from a previous and bad version, now I have raytraced everithing correctly so I only need a few more steps to go.
-<img width="1282" height="721" alt="A" src="https://github.com/user-attachments/assets/3ca2b80e-f3e4-4287-af11-a36d5e916e81" />
+<img width="693" height="519" alt="Captura de pantalla 2026-05-28 091333" src="https://github.com/user-attachments/assets/5d12dbb1-6f9f-4857-be7b-7ab30262c324" />
+
+<img width="822" height="455" alt="Captura de pantalla 2026-05-28 091314" src="https://github.com/user-attachments/assets/e208d037-41df-42ea-8ea7-245e9c70fa9c" />
 
 
 I thought it could be ideal to use the finest and most flexible glass and found "Ultra-thin 0.1/0.2mm JGS1 quartz glass sheet, UV-grade fused silica optical glass window lens, high temperature resistant"
 
-<img width="1282" height="721" alt="B" src="https://github.com/user-attachments/assets/c52de091-29ca-4ccb-883a-70d5e1332af6" />
+<img width="742" height="470" alt="Captura de pantalla 2026-05-28 091341" src="https://github.com/user-attachments/assets/e958e8e7-f9f2-4285-9126-6a66706d8302" />
 
 
 I will use this company to manufacture the metal piece:
