@@ -16,7 +16,7 @@ My idea also is to try and make the translucen mirrors myself chemically because
 
 I thought it could be ideal to use the finest and most flexible glass and found "Ultra-thin 0.1/0.2mm JGS1 quartz glass sheet, UV-grade fused silica optical glass window lens, high temperature resistant"
 
-<img width="742" height="470" alt="Captura de pantalla 2026-05-28 091341" src="https://github.com/user-attachments/assets/e958e8e7-f9f2-4285-9126-6a66706d8302" />
+<img width="732" height="596" alt="image" src="https://github.com/user-attachments/assets/fedc1221-b645-43ac-9377-30dab6c6b9fd" />
 
 
 I will use this company to manufacture the metal piece:
