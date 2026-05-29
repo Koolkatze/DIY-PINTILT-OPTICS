@@ -3,7 +3,7 @@ I have seen this PinTilt optics and decided to do my own version of them to see 
 
 Disclaimer: keep in mind that the scale of fhe 3D model is modifiable if the aspect ratio of the microdisplay is the same. Just scale it to your displays scale and keep in mind this is still a W.I.P. 
 
-<img width="693" height="519" alt="Captura de pantalla 2026-05-28 091333" src="https://github.com/user-attachments/assets/5d12dbb1-6f9f-4857-be7b-7ab30262c324" />
+<img width="885" height="695" alt="Captura de pantalla 2026-05-29 114109" src="https://github.com/user-attachments/assets/eb95801c-22a9-4847-90b4-4b50be3cee33" />
 
 The idea is to get this 3D model and maybe modify the mirror scale a bit having the rytrace as a guide, cut the piece in two pieces so the mirror gets exposed and sending it to manufacture a metal piece with CNC at a tolerance of +-0.005mm and use this metal parts to ensemble your own optics.
 
