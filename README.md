@@ -11,7 +11,7 @@ My idea is to make it cheap and replaceable so I want to use pieces of fine glas
 
 My idea also is to try and make the translucen mirrors myself chemically because I am not finding translucent mirrors that thin (0.2mm).
 
-<img width="822" height="455" alt="Captura de pantalla 2026-05-28 091314" src="https://github.com/user-attachments/assets/e208d037-41df-42ea-8ea7-245e9c70fa9c" />
+<img width="1102" height="494" alt="image" src="https://github.com/user-attachments/assets/51f4cea6-e22a-472f-9709-cdd3688d0708" />
 
 
 I thought it could be ideal to use the finest and most flexible glass and found "Ultra-thin 0.1/0.2mm JGS1 quartz glass sheet, UV-grade fused silica optical glass window lens, high temperature resistant"
